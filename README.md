@@ -43,4 +43,4 @@ The project focuses on creating a premium, modern and user-friendly UI with subt
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vanshrajputt/veloop-frontend-task.git
